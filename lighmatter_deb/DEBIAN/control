@@ -1,0 +1,14 @@
+Package: lightmatter
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: libc6 (>= 2.28)
+Maintainer: Car85 <car85@startmail.com>
+License: GPL-3
+Description: LightMatter - A simple desktop go and Fyne app launcher of singularity containers
+ LightMatter is a lightweight and user-friendly application designed to simplify
+ the process of managing and launching Singularity containers. It provides an
+ intuitive graphical interface where users can select directories, browse
+ available containers, and run them with a single click.
+
