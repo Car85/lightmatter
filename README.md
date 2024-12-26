@@ -13,7 +13,7 @@
 
 1. Download the `.deb` package:
    ```bash
-   wget [<link_to_lightmatter.deb>](https://github.com/Car85/lightmatter.git)
+   wget https://github.com/Car85/lightmatter.git
    ```
 
 2. Install the package:
