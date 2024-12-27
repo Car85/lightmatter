@@ -6,10 +6,10 @@
 
 | Technology | Logo |
 |------------|------|
-| Go         | ![Go Logo](https://go.dev/blog/go-brand/Go-Logo_Blue.png) |
-| Fyne       | ![Fyne Logo](https://raw.githubusercontent.com/fyne-io/fyne/master/logo/fyne.png) |
-| Debian     | ![Debian Logo](https://www.debian.org/logos/openlogo-nd.svg) |
-| Linux      | <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux Logo" width="50" />
+| Go         | <img src="https://go.dev/blog/go-brand/Go-Logo_Blue.png" alt="Go Logo" width="50" /> |
+| Fyne       | <img src="https://raw.githubusercontent.com/fyne-io/fyne/master/logo/fyne.png" alt="Fyne Logo" width="50" /> |
+| Debian     | <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian Logo" width="50" /> |
+| Linux      | <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux Logo" width="50" /> |
 
 
 ## Features
