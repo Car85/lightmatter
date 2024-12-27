@@ -19,6 +19,11 @@
 - Support for multiple containers in the same session.
 - Lightweight design with minimal dependencies.
 
+## Demo
+
+[LightMatter Demo](https://github.com/user-attachments/assets/b75f77cf-a6e7-4c41-ad2f-4510c6f042e6)
+
+
 ## Installation
 
 1. Download the `.deb` package:
