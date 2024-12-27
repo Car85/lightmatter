@@ -6,8 +6,8 @@
 
 | Technology | Logo |
 |------------|------|
-| Go         | <img src="https://go.dev/blog/go-brand/Go-Logo_Blue.png" alt="Go Logo" width="50" /> |
-| Fyne       | <img src="https://raw.githubusercontent.com/fyne-io/fyne/master/logo/fyne.png" alt="Fyne Logo" width="50" /> |
+| Go         | <img src="https://cdn-images-1.medium.com/max/410/1*lgZkB5FIZEqR6v-h_ZpCNw.png" alt="Go Logo" width="50" /> |
+| Fyne       | <img src="http://apps.fyne.io/assets/images/Fyne-Logo-Dark-p-800.png" alt="Fyne Logo" width="55" height="45" /> |
 | Debian     | <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian Logo" width="50" /> |
 | Linux      | <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux Logo" width="50" /> |
 
