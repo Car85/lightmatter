@@ -2,6 +2,17 @@
 
 **LightMatter** is a lightweight and user-friendly application designed to simplify the process of managing and launching Singularity containers. Built using Go and Fyne, it provides a clean graphical interface to streamline container workflows.
 
+## Technologies Used
+
+
+| Technology | Logo |
+|------------|------|
+| Go         | ![Go Logo](https://golang.org/lib/godoc/images/go-logo-blue.svg) |
+| Fyne       | ![Fyne Logo](https://fyne.io/static/img/logo.png) |
+| Debian     | ![Debian Logo](https://www.debian.org/logos/openlogo-nd.svg) |
+| Linux      | ![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png) |
+
+
 ## Features
 
 - Simplified management of Singularity containers.
