@@ -4,13 +4,12 @@
 
 ## Technologies Used
 
-
 | Technology | Logo |
 |------------|------|
-| Go         | ![Go Logo](https://golang.org/lib/godoc/images/go-logo-blue.svg) |
-| Fyne       | ![Fyne Logo](https://fyne.io/static/img/logo.png) |
+| Go         | ![Go Logo](https://go.dev/blog/go-brand/Go-Logo_Blue.png) |
+| Fyne       | ![Fyne Logo](https://raw.githubusercontent.com/fyne-io/fyne/master/logo/fyne.png) |
 | Debian     | ![Debian Logo](https://www.debian.org/logos/openlogo-nd.svg) |
-| Linux      | ![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png) |
+| Linux      | <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux Logo" width="50" />
 
 
 ## Features
