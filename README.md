@@ -1,15 +1,12 @@
 # LightMatter
 
+![Go](https://img.shields.io/badge/Go-1.21-blue?style=flat-square&logo=go)
+![Debian](https://img.shields.io/badge/Debian-11-red?style=flat-square&logo=debian)
+![Linux](https://img.shields.io/badge/Linux-Universal-orange?style=flat-square&logo=linux)
+![License](https://img.shields.io/badge/License-GPL--3.0-green?style=flat-square&logo=gnu)
+
+
 **LightMatter** is a lightweight and user-friendly application designed to simplify the process of managing and launching Singularity containers. Built using Go and Fyne, it provides a clean graphical interface to streamline container workflows.
-
-## Technologies Used
-
-|Technologies|
-|-----------|
-| <img src="https://cdn-images-1.medium.com/max/410/1*lgZkB5FIZEqR6v-h_ZpCNw.png" alt="Go Logo" width="70" /> |
-| <img src="http://apps.fyne.io/assets/images/Fyne-Logo-Dark-p-800.png" alt="Fyne Logo" width="70" height="45" /> |
-| <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian Logo" width="70" /> |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux Logo" width="70" /> |
 
 
 ## Features
@@ -51,6 +48,8 @@
 
 2. Select a directory containing `.sif` files (Singularity containers).
 3. Browse and run containers with a single click.
+
+---
 
 ## License
 
